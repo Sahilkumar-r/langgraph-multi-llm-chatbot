@@ -1,0 +1,6 @@
+langgraph>=0.2
+langchain-core>=0.3
+litellm>=1.50
+deepeval>=2.0
+langsmith>=0.2
+python-dotenv>=1.0
